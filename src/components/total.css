@@ -1,0 +1,22 @@
+/* #incontainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+} */
+/* div{
+    color: red;
+} */
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.card{
+    justify-content: center;
+}
+.btns{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 2rem 0rem;
+  }
